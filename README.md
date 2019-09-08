@@ -22,6 +22,5 @@ Requirements:
 - torchfile
 
 Reference:
-[1] S. Reed, Z. Akata, B. Schiele, and H. Lee. Learning deep
-representations of fine-grained visual descriptions. 
-[2] L. Zhang, T. Xiang, and S. Gong, “Learning a deep embedding model for zero-shot learning.
+-  S. Reed, Z. Akata, B. Schiele, and H. Lee. Learning deep representations of fine-grained visual descriptions. 
+-  L. Zhang, T. Xiang, and S. Gong, “Learning a deep embedding model for zero-shot learning.
