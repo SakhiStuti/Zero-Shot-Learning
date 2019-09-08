@@ -5,21 +5,21 @@
 
 
 To Run the training, to the folder code in the command prompt and then,
--attribute with MSE loss:
+- attribute with MSE loss:
  python att_mse.py
--description with MSE loss:
+- description with MSE loss:
  python desc_mse.py
--fusion with MSE loss:
+- fusion with MSE loss:
  python fusion_mse.py
--fusion with cosine loss:
+- fusion with cosine loss:
  python fusion_cosine.py
--fusion with mahalanobis loss:
+- fusion with mahalanobis loss:
  python fusion_mah.py
 
 Requirements:
-numpy
-pytorch
-torchfile
+- numpy
+- pytorch
+- torchfile
 
 Reference:
 [1] S. Reed, Z. Akata, B. Schiele, and H. Lee. Learning deep
